@@ -1,0 +1,17 @@
+=== NavMeshObstacle Replacer Log ===
+Started at: 2025-09-24 21:38:33
+Unity Version: 2023.2.20f1
+Scene: SampleScene
+=====================================
+[21:38:33] Starting Process with parameters: shouldRemove=false, shouldReplace=false
+[21:38:33] Found 5 NavMeshObstacle components in the scene
+[21:38:33] Process called with (false, false) - performing information scan only
+[21:38:33] Found NavMeshObstacle on object: TestObstacle_0 - Carving: True, Size: (1.0, 1.0, 1.0)
+[21:38:33] Found NavMeshObstacle on object: TestObstacle_1 - Carving: True, Size: (1.0, 1.0, 1.0)
+[21:38:33] Found NavMeshObstacle on object: TestObstacle_2 - Carving: True, Size: (1.0, 1.0, 1.0)
+[21:38:33] Found NavMeshObstacle on object: TestObstacle_3 - Carving: True, Size: (1.0, 1.0, 1.0)
+[21:38:33] Found NavMeshObstacle on object: TestObstacle_4 - Carving: True, Size: (1.0, 1.0, 1.0)
+[21:38:33] Information scan completed. No modifications made.
+[21:38:33] Log file saved successfully to: /Users/Project/NvMObsReplacer_ReplaceLog_20250924_213833.txt
+=====================================
+Log ended at: 2025-09-24 21:38:33
